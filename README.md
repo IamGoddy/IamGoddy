@@ -9,7 +9,6 @@
  * 📓 Aluno Programador de Informática 
  * 🚀 Futuro Front-End
  
-## CONTACTOS 
 
 ![screen-gif](https://64.media.tumblr.com/e1ae01dd191e8a302542b92cb63f2f5c/tumblr_n72drxSIMW1ruw1vso2_500.gifv)
  
